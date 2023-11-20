@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+main {
+  background-color: #CACACA;
+}
+
+.socialMedia {
+  cursor: pointer;
+}
+
+li:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+a:hover {
+  cursor: pointer;
+}
+
+body {
+  background-color: #CACACA;
+  margin: auto;
+}
+
+.paragraphContainer{
+  width: 800px;
+}
+
